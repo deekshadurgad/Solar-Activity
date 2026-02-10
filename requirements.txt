@@ -1,7 +1,8 @@
-streamlit>=1.40.0
-pandas>=2.2.3
+streamlit
+pandas
 numpy>=1.26.0
 plotly>=5.18.0
-scipy>=1.13.0
+scipy
 requests>=2.31.0
+
 
